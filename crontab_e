@@ -1,0 +1,6 @@
+crontab -e
+05 01 * * * /home/suraj/archive_project.sh
+
+save it by doing :wq!
+
+Now this archive_project.sh file will be going to execute at given time  
